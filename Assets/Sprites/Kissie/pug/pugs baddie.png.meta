@@ -1,0 +1,308 @@
+fileFormatVersion: 2
+guid: 3abf679083cdc41bba00c417ca2cad4f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 373721010936417560
+    second: pugs baddie_0
+  - first:
+      213: -8838288144205265955
+    second: pugs baddie_1
+  - first:
+      213: -4321419556281201634
+    second: pugs baddie_2
+  - first:
+      213: 8932504121462344942
+    second: pugs baddie_3
+  - first:
+      213: -7478790690054454606
+    second: pugs baddie_4
+  - first:
+      213: -5188598918916729097
+    second: pugs baddie_5
+  - first:
+      213: -5791191611282432344
+    second: pugs baddie_6
+  - first:
+      213: 5472736786208891898
+    second: pugs baddie_7
+  - first:
+      213: 2651994917558055397
+    second: pugs baddie_8
+  - first:
+      213: -3541095189369580474
+    second: pugs baddie_9
+  - first:
+      213: -2638034689705169719
+    second: pugs baddie_10
+  - first:
+      213: -7297424375923082199
+    second: pugs baddie_11
+  - first:
+      213: 5303855832907450451
+    second: pugs baddie_12
+  - first:
+      213: -8480891277552879862
+    second: pugs baddie_13
+  - first:
+      213: 1029567996431749918
+    second: pugs baddie_14
+  - first:
+      213: -767192685537355488
+    second: pugs baddie_15
+  - first:
+      213: -2609129179569053030
+    second: pugs baddie_16
+  - first:
+      213: -2834129732907790311
+    second: pugs baddie_17
+  - first:
+      213: 2975121793909735187
+    second: pugs baddie_18
+  - first:
+      213: 2023262762987905016
+    second: pugs baddie_19
+  - first:
+      213: 3768320468363112491
+    second: pugs baddie_20
+  - first:
+      213: -4866240829981823465
+    second: pugs baddie_21
+  - first:
+      213: -1264105849598126924
+    second: pugs baddie_22
+  - first:
+      213: -3706728669715848827
+    second: pugs baddie_23
+  - first:
+      213: 8221031173119661185
+    second: pugs baddie_24
+  - first:
+      213: 1244877875846630173
+    second: pugs baddie_25
+  - first:
+      213: -5223480410078362507
+    second: pugs baddie_26
+  - first:
+      213: -4257126896189659083
+    second: pugs baddie_27
+  - first:
+      213: 8270824294076082169
+    second: pugs baddie_28
+  - first:
+      213: -650082051058911166
+    second: pugs baddie_29
+  - first:
+      213: -907667414132515860
+    second: pugs baddie_30
+  - first:
+      213: 5621955683444796754
+    second: pugs baddie_31
+  - first:
+      213: -5022670343268589245
+    second: pugs baddie_32
+  - first:
+      213: -8551449258051208038
+    second: pugs baddie_33
+  - first:
+      213: 1236829076128320103
+    second: pugs baddie_34
+  - first:
+      213: 2028115847529309459
+    second: pugs baddie_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pugs baddie_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d07f58749bf2500800000000000000
+      internalID: 373721010936417560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugs baddie_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3491692c7185580800000000000000
+      internalID: -8838288144205265955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugs baddie_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1cce663fcb3704c0800000000000000
+      internalID: -4321419556281201634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pugs baddie_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eecc97a0c21a6fb70800000000000000
+      internalID: 8932504121462344942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

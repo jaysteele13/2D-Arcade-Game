@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - Drink
+  - Drink Absorb
+  - Wall
+  - Pug
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Bullet
+  - Pug
+  - DrinkAbsorb
+  - Invisible Boundary
+  - IgnoreCollisions
+  - 'Outer Boundary '
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2465545407
+    locked: 0
+  - name: Drinks
+    uniqueID: 3604466205
+    locked: 0
+  - name: Player
+    uniqueID: 4049895797
+    locked: 0
+  - name: Explosion
+    uniqueID: 1707654151
+    locked: 0
+  - name: UI
+    uniqueID: 2479145927
+    locked: 0

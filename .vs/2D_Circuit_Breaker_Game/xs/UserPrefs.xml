@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{2697D9F6-40A4-6C42-31BB-6231294BCD2B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/WallManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PugChasing.cs" IsPinned="True" />
+      <File FileName="Assets/Scripts/DrinkSpawnerAbsorb.cs" IsPinned="True" />
+      <File FileName="Assets/Scripts/MainMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Bullet.cs" />
+      <File FileName="Assets/Scripts/WallManager.cs" Line="76" Column="30" />
+      <File FileName="Assets/Scripts/CircularMovement.cs" />
+      <File FileName="Assets/Scripts/UIManager.cs" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="335" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b91e2838-0c81-4afd-a877-c2e3caf11942" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
